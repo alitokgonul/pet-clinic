@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  * Created by at on on 14-Aug-19.
  */
-public interface OwnService {
+public interface OwnerService {
 
     Owner findByLastName(String lastName);
 
