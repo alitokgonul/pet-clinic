@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <name>pet-clinic</name>
-    <description>SFG Pet Clinic Project</description>
+    <description>Pet Clinic Project</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -54,9 +54,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:alitokgonul/pet-clinic.git</developerConnection>
-<!--        <tag>HEAD</tag>-->
     </scm>
-
 
 
 </project>
