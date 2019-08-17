@@ -7,7 +7,7 @@ package guru.springframework.petclinic;
 //@SpringBootTest
 public class PetClinicApplicationTests {
 
-//    @Test
+    //    @Test
     public void contextLoads() {
     }
 
